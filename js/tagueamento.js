@@ -11,7 +11,8 @@
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-ga('create', 'UA-202541956-1');
+// ga('create', 'UA-12345-6'); // Descomente essa linha para enviar os dados trackeados para está conta do Google Analytics.
+ga('create', 'UA-202612579-1'); // Conta do Google Analytics que usei para testar os envios.
 
 // Get `pageview` for `index.html`, `analise.html` and `sobre.html`
 ga('send', 'pageview');
