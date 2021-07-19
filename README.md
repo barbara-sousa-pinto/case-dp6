@@ -1,6 +1,6 @@
 # case-dp6
 
-Imagens do Google Analytics trackando os eventos:
+Imagens do Google Analytics trackeando os eventos:
 ![img.png](img.png)
 ![img_1.png](img_1.png)
 
