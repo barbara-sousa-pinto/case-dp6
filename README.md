@@ -1,5 +1,7 @@
 # case-dp6
 
+Link para o site: https://barbara-sousa-pinto.github.io/case-dp6/
+
 Imagens do Google Analytics trackeando os eventos:
 ![img.png](img.png)
 ![img_1.png](img_1.png)
